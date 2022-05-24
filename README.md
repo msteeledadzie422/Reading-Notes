@@ -4,14 +4,21 @@ Reading Notes example assignment
 
 ## Growth Mindset
 
-Hi my name is Mandela Steele-Dadzie and I am looking to become a Software Engineer specializing in Python! I am a Code Fellows Student.
+My name is Mandela Steele-Dadzie, you can find my GitHub portfolio [here](https://github.com/msteeledadzie422).
 
-1. Never give up
-2. Reminder 2
-3. Reminder 3
+To me, a **Growth Mindset** is persevering through failure -- the opposite of thinking that something may not be "for you" because it does not work out for you right away.
 
-- Reminder 1
-- Reminder 2
-- Reminder 3
+A person with a Growth Mindset may be more inclined to: 
+  - Attempt to learn a new skill or pick up a new hobby
+  - "Dust themselves off and try again"
+  - Welcome help and advice knowing they always have room to improve
 
-Put some text under the list
+I believe the below quote also speaks to this mindset:
+
+> *"Live as if you were to die tomorrow; learn as if you were to live forever"*
+>
+> Mahatma Gandhi
+
+Having a Growth Mindset is up to the individual and is something hopefully some people will choose to strive for!
+
+
