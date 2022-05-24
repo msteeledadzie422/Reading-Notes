@@ -4,7 +4,9 @@ Reading Notes example assignment
 
 ## Growth Mindset
 
-My name is Mandela Steele-Dadzie, you can find my GitHub portfolio [here](https://github.com/msteeledadzie422).
+![image](https://media.istockphoto.com/vectors/watering-brain-plant-vector-id478934002?b=1&k=20&m=478934002&s=612x612&w=0&h=uDTKfKDBsbNinsbGiJ9w_ucUBYU0cUQItupuqIExCV0=)
+
+Hello! My name is Mandela Steele-Dadzie, you can find my GitHub portfolio [here](https://github.com/msteeledadzie422).
 
 To me, a **Growth Mindset** is persevering through failure -- the opposite of thinking that something may not be "for you" because it does not work out for you right away.
 
@@ -19,6 +21,4 @@ I believe the below quote also speaks to this mindset:
 >
 > Mahatma Gandhi
 
-Having a Growth Mindset is up to the individual and is something hopefully some people will choose to strive for!
-
-
+Whatever mindset you have, always persevere!
