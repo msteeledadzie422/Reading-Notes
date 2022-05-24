@@ -21,4 +21,4 @@ I believe the below quote also speaks to this mindset:
 >
 > Mahatma Gandhi
 
-Whatever mindset you have, always persevere!
+Whatever mindset you have, persevere!
