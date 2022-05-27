@@ -17,3 +17,6 @@ There are 6 important steps in creating your Wireframe:
 HTML is a mark*up* language that defines the structure of your content.
 
 More nuanced syntax than Mark*down*, HTML has established syntax for each section of your page you are looking to create.
+
+*Semantics* are also very important in HTML as these determine the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".).
+
