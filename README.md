@@ -5,7 +5,7 @@
 # Code 201 Reading Assignments
 
 ## _Code 201 Table of Contents_
-- [Reading]
+- [class-01](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-class-01)
 
 
 
