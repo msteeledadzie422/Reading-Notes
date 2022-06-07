@@ -1,12 +1,17 @@
 # Reading-Notes
 
-Reading Notes example assignment
-
-## Growth Mindset
-
 ![image](https://media.istockphoto.com/vectors/watering-brain-plant-vector-id478934002?b=1&k=20&m=478934002&s=612x612&w=0&h=uDTKfKDBsbNinsbGiJ9w_ucUBYU0cUQItupuqIExCV0=)
 
-_Table of Contents_
+# Code 201 Reading Assignments
+
+## _Code 201 Table of Contents_
+- [Reading]
+
+
+
+# Code 102 Reading Assignments
+
+## _Code 102 Table of Contents_
 - [Markdown Syntax](https://github.com/msteeledadzie422/Reading-Notes/blob/main/MarkdownReadingNotes.md)
 - [Text Editors](https://github.com/msteeledadzie422/Reading-Notes/blob/main/The%20Coders%20Computer%20Reading.md)
 - [An Intro to Git](https://github.com/msteeledadzie422/Reading-Notes/blob/main/GitIntroReadingNotes.md)
