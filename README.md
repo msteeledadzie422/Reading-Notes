@@ -10,6 +10,7 @@
 - [class-05](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading05.md)
 - [class-06](https://github.com/msteeledadzie422/Reading-Notes/tree/main/201-reading06.md)
 - [class-07](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading07.md)
+- [class-08](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading08.md)
 
 
 
