@@ -15,6 +15,7 @@
 - [class-10](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading10.md)
 - [class-11](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading11.md)
 - [class-12](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading12.md)
+- [class-13](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading13.md)
 
 
 
