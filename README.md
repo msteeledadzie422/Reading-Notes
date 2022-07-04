@@ -7,6 +7,7 @@
 ## _Code 201 Table of Contents_
 - [class-01](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-class-01)
 - [class-04](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading04)
+- [class-05](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading05.md)
 
 
 
