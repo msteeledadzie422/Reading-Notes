@@ -8,6 +8,7 @@
 - [prep-React](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-prep-diveintoreact.md)
 - [class-01](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading01.md)
 - [class-02](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading02.md)
+- [class-03](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading03.md)
 - [class-06](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading06.md)
 
 # Code 201 Reading Assignments
