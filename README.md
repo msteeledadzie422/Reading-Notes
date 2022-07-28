@@ -10,6 +10,7 @@
 - [class-02](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading02.md)
 - [class-03](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading03.md)
 - [class-04](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading04.md)
+- [class-05](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading05.md)
 - [class-06](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading06.md)
 
 # Code 201 Reading Assignments
