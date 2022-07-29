@@ -13,6 +13,8 @@
 - [class-05](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading05.md)
 - [class-06](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading06.md)
 - [class-07](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading07.md)
+- [class-08](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading08.md)
+- [class-09](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading09.md)
 
 # Code 201 Reading Assignments
 
