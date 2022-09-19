@@ -2,7 +2,11 @@
 
 ![image](https://media.istockphoto.com/vectors/watering-brain-plant-vector-id478934002?b=1&k=20&m=478934002&s=612x612&w=0&h=uDTKfKDBsbNinsbGiJ9w_ucUBYU0cUQItupuqIExCV0=)
 
-# Code 301 Reading Assignments
+# Code 401 - Advanced Software Developemt (JavaScript)
+
+## _Code 401 Table of Contents_
+
+# Code 301 - Intermediate Software Development
 
 ## _Code 301 Table of Contents_
 - [prep-React](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-prep-diveintoreact.md)
@@ -18,7 +22,7 @@
 - [class-10](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading10.md)
 - [class-11](https://github.com/msteeledadzie422/Reading-Notes/blob/main/301-reading11.md)
 
-# Code 201 Reading Assignments
+# Code 201 - Foundations of Software Development
 
 ## _Code 201 Table of Contents_
 - [class-01](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-class-01)
@@ -34,7 +38,7 @@
 - [class-13](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading13.md)
 - [class-14a](https://github.com/msteeledadzie422/Reading-Notes/blob/main/201-reading14a.md)
 
-# Code 102 Reading Assignments
+# Code 102 - Intro to Software Development
 
 ## _Code 102 Table of Contents_
 - [Markdown Syntax](https://github.com/msteeledadzie422/Reading-Notes/blob/main/MarkdownReadingNotes.md)
