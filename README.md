@@ -2,7 +2,7 @@
 
 ![image](https://media.istockphoto.com/vectors/watering-brain-plant-vector-id478934002?b=1&k=20&m=478934002&s=612x612&w=0&h=uDTKfKDBsbNinsbGiJ9w_ucUBYU0cUQItupuqIExCV0=)
 
-# Code 401 - Advanced Software Developemt (JavaScript)
+# Code 401 - Advanced Software Development (JavaScript)
 
 ## _Code 401 Table of Contents_
 
