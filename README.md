@@ -7,6 +7,7 @@
 ## _Code 401 Table of Contents_
 
 - [class-01](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading01.md)
+- [class-02](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading02.md)
 
 # Code 301 - Intermediate Software Development
 
