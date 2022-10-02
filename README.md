@@ -8,6 +8,8 @@
 
 - [class-01](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading01.md)
 - [class-02](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading02.md)
+- [class-03](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading03.md)
+- [class-06](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading06.md)
 
 # Code 301 - Intermediate Software Development
 
