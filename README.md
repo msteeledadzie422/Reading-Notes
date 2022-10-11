@@ -17,6 +17,7 @@
 - [class-12](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading12.md)
 - [class-13](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading13.md)
 - [class-16](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading16.md)
+- [class-17](https://github.com/msteeledadzie422/Reading-Notes/blob/main/401JS-reading17.md)
 
 # Code 301 - Intermediate Software Development
 
