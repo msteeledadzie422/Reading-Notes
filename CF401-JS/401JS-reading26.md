@@ -1,4 +1,4 @@
-# react hello world
+# React Hello World
 
 1. What are the building blocks of a React app?
 
