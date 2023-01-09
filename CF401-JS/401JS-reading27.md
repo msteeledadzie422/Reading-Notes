@@ -32,3 +32,25 @@ Rule2: Only call Hooks from React function components. Don't call Hooks from reg
 Custom Hooks allow you to reuse some stateful logic between components without adding more components to your tree.
 
 We create these by creating a function with the name "use" that calls another Hook.
+
+
+# The State Hook
+
+*What is a Hook?*
+Hooks are a new addition in React 16.8. They let you use staet and other React features without writing a class.
+
+
+*When would I use the useState Hook?*
+If you write a function component and realize you need to add some state to it, previously you had to convert it to a class. Now you can use a Hook, such as useState, inside the existing function component.
+
+
+*If you were to add React state to a function component by declaring a state variable:*
+    *What does calling useState do?*
+    It declares a "state variable" as a way to "preserve" some values between the function calls. 
+
+
+    *What do we pass to useState as an argument?*
+    
+
+
+    What does useState return?
