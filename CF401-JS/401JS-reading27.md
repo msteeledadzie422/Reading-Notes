@@ -45,12 +45,13 @@ If you write a function component and realize you need to add some state to it, 
 
 
 *If you were to add React state to a function component by declaring a state variable:*
-    *What does calling useState do?*
-    It declares a "state variable" as a way to "preserve" some values between the function calls. 
+   *What does calling useState do?*
+   It declares a "state variable" as a way to "preserve" some values between the function calls. 
 
-
-    *What do we pass to useState as an argument?*
+   *What do we pass to useState as an argument?*
+   The only argument to the useState() Hook is the initial state. Unlike with classes, the state doesn't have to be an object. We can keep a number or a string if that is all we need.
     
 
+   *What does useState return?*
+   It returns a pair of values: the current state and a function that updates it.
 
-    What does useState return?
