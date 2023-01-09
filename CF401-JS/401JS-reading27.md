@@ -23,7 +23,12 @@ Hooks allow you to reuse stateful logic without changing your component hierarch
 
 *Name two rules imposed by React Hook usage.*
 
+Rule 1: Only call Hooks at the top level. Don't call Hooks inside loops, conditions, or nested functions.
+Rule2: Only call Hooks from React function components. Don't call Hooks from regular JavaScript functions. (The only other valid place to call Hooks would be your own custom Hooks.)
 
 
+*How would you identify a custom Hook and why might you create one?*
 
-How would you identify a custom Hook and why might you create one?
+Custom Hooks allow you to reuse some stateful logic between components without adding more components to your tree.
+
+We create these by creating a function with the name "use" that calls another Hook.
