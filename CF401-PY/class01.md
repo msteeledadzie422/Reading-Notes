@@ -8,9 +8,9 @@
 # Beginner's Guide to Big O Notation
 
 - O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
-- O(n) describes an algorith whose performance will grow linearly and in direct proportion to the size of the input data set.
-- O(n^2) represents an algorith whose performance is directly proportional to the square of the size of the input data set.
-- O(2^n) denotes an algorith whose growth doubles with each addition to the input data set.
+- O(n) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set.
+- O(n^2) represents an algorithm whose performance is directly proportional to the square of the size of the input data set.
+- O(2^n) denotes an algorithm whose growth doubles with each addition to the input data set.
 - Logarithms:
     - Used for when you are decreasing the size of an input data set as you are iterating through it, flattening out the algorithms time/space as the data set grows.
 
