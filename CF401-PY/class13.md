@@ -36,7 +36,7 @@
 
 
 3. What is the purpose of splitting the dataset into train and test sets, and how does this contribute to the evaluation of a machine learning model’s performance?
-      In real-world situations, having a complex model and 𝑅² very close to one might also be a sign of overfitting. To check the performance of a model, you should test it with new data—that is, with observations not used to fit, or train, the model.       
+      In real-world situations, having a complex model and 𝑅² very close to one might also be a sign of overfitting. To check the performance of a   model, you should test it with new data—that is, with observations not used to fit, or train, the model.       
 
 
 
